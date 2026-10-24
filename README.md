@@ -1,3 +1,5 @@
+> **Portfólio:** [Índice geral dos projetos](https://github.com/PauloSilvaSH/Project_finance_pucrs/blob/main/PORTFOLIO.md) · [README de perfil pronto para publicação](https://github.com/PauloSilvaSH/Project_finance_pucrs/blob/main/README_PROFILE.md)
+
 # Programação para Dados — Análise de Jogos da Steam
 
 Projeto de análise exploratória de um catálogo de jogos da Steam. Os notebooks exploram preços, avaliações do Metacritic, datas de lançamento, publicadoras, gêneros/categorias e suporte a sistemas operacionais.
